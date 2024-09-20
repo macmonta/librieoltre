@@ -1,23 +1,35 @@
 body {
     font-family: monospace;
-    line-height: 1.6;
-    font-weight: 400;
+    line-height: 1.5;
     font-size: 16px;
     margin: 0 auto;
-    padding: 20px;
+    padding: 18px;
     max-width: 650px;
-    color: #000000;   
+    color: black;   
 }
 
-h1, h2 {
+h1 {
     margin-top:2rem;
-    font-weight: 700;
-    line-height: 50px;
-    font-size:32px;
+    font-weight: bold;
+    line-height: 42px;
+    font-size:37px;
 }
 
+h2 {
+    margin-top:2rem;
+    font-weight: bold;
+    line-height: 30px;
+    font-size:27px;
+}
+
+h3 {
+    margin-top:2rem;
+    font-weight: bold;
+    line-height: 24px;
+    font-size:21px;
+}
 ul {
-    padding-left: 40px;
+    padding-left: 30px;
 }
 
 footer {
